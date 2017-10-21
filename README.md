@@ -14,6 +14,8 @@ IDE混用之后快捷键也记得乱七八糟，故导出或者记得各种配�
 		<tr><td>Forward History</td><td>Alt+→</td></tr>
 		<tr><td>Organize Imports</td><td>Ctrl+Shift+O</td></tr>
 		<tr><td>Content Assist</td><td>Alt+/</td></tr>
+		<tr><td>Run</td><td>Ctrl+F11</td></tr>
+		<tr><td>Debug</td><td>F11</td></tr>
 	</table>
 
 ## IntelliJ IDEA Community Edition 2017.2.5
@@ -38,6 +40,9 @@ IDE混用之后快捷键也记得乱七八糟，故导出或者记得各种配�
 		<tr><td>Completion</td><td>Alt+/</td></tr>
 		<tr><td>Cyclic Expand Word</td><td>Alt+.</td></tr>
 		<tr><td>Cyclic Expand word(Backward)</td><td>Alt+Shift+.</td></tr>
+		<tr><td>Cyclic Expand word(Backward)</td><td>Alt+Shift+.</td></tr>
+		<tr><td>Run</td><td>Ctrl+Shift+F10</td></tr>
+		<tr><td>Debug</td><td>Ctrl+Shift+F9</td></tr>
 	</table> 
 
 ## Windows 10
