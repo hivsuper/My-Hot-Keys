@@ -48,7 +48,7 @@ IDE混用之后快捷键也记得乱七八糟，故导出或者记得各种配�
 	</table>
 
 ## MySQL
-+	How to grant remote access of database?
++	How to grant remote access of database jiaoyan to dev?
 ```	
 	GRANT ALL PRIVILEGES ON jiaoyan.* TO dev@'%' IDENTIFIED BY 'dev';  
 	FLUSH PRIVILEGES;
