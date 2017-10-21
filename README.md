@@ -1,6 +1,6 @@
-###快捷键以及各类使用记录
+# 快捷键以及各类使用记录
 IDE混用之后快捷键也记得乱七八糟，故导出或者记得各种配置，以备不时之需。  
-## eclipse-jee-oxygen-R-win32-x86_64
+## Eclipse-jee-oxygen-R-win32-x86_64
 +	Keymap  
 	<table>
 		<tr><td>查找资源</td><td>Ctrl+Shift+R</td></tr>
