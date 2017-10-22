@@ -3,7 +3,7 @@ IDE混用之后快捷键也记得乱七八糟，故导出或者记录各种配�
 ## Eclipse-jee-oxygen-R-win32-x86_64
 +	Keymap  
 	<table>
-		<tr><td>查找资源</td><td>Ctrl+Shift+R</td></tr>
+		<tr><td>跳转到文件</td><td>Ctrl+Shift+R</td></tr>
 		<tr><td>查找类</td><td>Ctrl+Shift+T</td></tr>
 		<tr><td>全局查找/替换</td><td>Ctrl+H</td></tr>
 		<tr><td>打开实现类</td><td>Ctrl+T</td></tr>
