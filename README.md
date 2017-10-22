@@ -16,6 +16,10 @@ IDE混用之后快捷键也记得乱七八糟，故导出或者记录各种配�
 		<tr><td>Content Assist</td><td>Alt+/</td></tr>
 		<tr><td>Run</td><td>Ctrl+F11</td></tr>
 		<tr><td>Debug</td><td>F11</td></tr>
+		<tr><td>代码上移/下移</td><td>Alt+↑/Alt+↓</td></tr>
+		<tr><td>复制选中代码</td><td>Ctrl+Alt+↓</td></tr>
+		<tr><td>Debug跳入方法/向下逐行调试/跳出方法/直接跳转到下一个断点</td><td>F5/F6/F7/F8</td></tr>
+		<tr><td>调出右健菜单</td><td>Ctrl+Alt+S</td></tr>
 	</table>
 
 ## IntelliJ IDEA Community Edition 2017.2.5
@@ -25,8 +29,9 @@ IDE混用之后快捷键也记得乱七八糟，故导出或者记录各种配�
 	http://www.cnblogs.com/SitongLiu/p/6554006.html  
 +	Keymap  
 	<table>
-		<tr><td>查找资源</td><td>Ctrl+Shift+R</td></tr>
+		<tr><td>跳转到文件</td><td>Ctrl+Shift+R</td></tr>
 		<tr><td>查找类</td><td>Ctrl+Shift+T</td></tr>
+		<tr><td>检索所有文件</td><td>Double Shift</td></tr>
 		<tr><td>全局查找</td><td>Ctrl+H</td></tr>
 		<tr><td>全局替换</td><td>Alt+H</td></tr>
 		<tr><td>打开实现类</td><td>Ctrl+T</td></tr>
@@ -43,7 +48,18 @@ IDE混用之后快捷键也记得乱七八糟，故导出或者记录各种配�
 		<tr><td>Cyclic Expand word(Backward)</td><td>Alt+Shift+.</td></tr>
 		<tr><td>Run</td><td>Ctrl+Shift+F10</td></tr>
 		<tr><td>Debug</td><td>Ctrl+Shift+F9</td></tr>
+		<tr><td>显示/隐藏Project视图</td><td>Alt+1</td></tr>
+		<tr><td>显示/隐藏Run控制台</td><td>Alt+4</td></tr>
+		<tr><td>显示/隐藏Debug控制台</td><td>Alt+5</td></tr>
+		<tr><td>关闭当前窗口</td><td>Ctrl+F4</td></tr>
+		<tr><td>代码上移/下移</td><td>Alt+↑/Alt+↓</td></tr>
+		<tr><td>复制选中代码</td><td>Ctrl+Alt+↓</td></tr>
+		<tr><td>Debug跳入方法/向下逐行调试/跳出方法/直接跳转到下一个断点</td><td>F5/F6/F7/F8</td></tr>
+		<tr><td>调出右健菜单</td><td>Ctrl+Alt+S</td></tr>
+		<tr><td>调用Generate窗口</td><td>Alt+Insert</td></tr>
 	</table> 
++	How to open Maven Projects view?
+	View->Tool Windows->Maven projects  
 
 ## Windows 10
 +	Hot Keys
