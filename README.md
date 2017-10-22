@@ -58,7 +58,7 @@ IDE混用之后快捷键也记得乱七八糟，故导出或者记录各种配�
 		<tr><td>调出右健菜单</td><td>Ctrl+Alt+S</td></tr>
 		<tr><td>调用Generate窗口</td><td>Alt+Insert</td></tr>
 	</table> 
-+	How to open Maven Projects view?
++	How to open Maven Projects view?  
 	View->Tool Windows->Maven projects  
 
 ## Windows 10
