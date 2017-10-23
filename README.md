@@ -78,3 +78,13 @@ IDE混用之后快捷键也记得乱七八糟，故导出或者记录各种配�
 ```	
 	show global variables like "%datadir%";
 ```	
+
+## Git
++	How to revert all changes on local branch?  
+```	
+	git reset --hard HEAD~1
+```
++	How to set local branch's head to some commit?
+```
+	git reset --hard commit_id
+```
