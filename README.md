@@ -20,6 +20,8 @@ IDE混用之后快捷键也记得乱七八糟，故导出或者记录各种配�
 		<tr><td>复制选中代码</td><td>Ctrl+Alt+↓</td></tr>
 		<tr><td>Debug跳入方法/向下逐行调试/跳出方法/直接跳转到下一个断点</td><td>F5/F6/F7/F8</td></tr>
 		<tr><td>调出右健菜单</td><td>Ctrl+Alt+S</td></tr>
+		<tr><td>选中内容大写</td><td>Ctrl+Shift+X</td></tr>
+		<tr><td>选中内容小写</td><td>Ctrl+Shift+Y</td></tr>
 	</table>
 
 ## IntelliJ IDEA Community Edition 2017.2.5
@@ -57,6 +59,7 @@ IDE混用之后快捷键也记得乱七八糟，故导出或者记录各种配�
 		<tr><td>Debug跳入方法/向下逐行调试/跳出方法/直接跳转到下一个断点</td><td>F5/F6/F7/F8</td></tr>
 		<tr><td>调出右健菜单</td><td>Ctrl+Alt+S</td></tr>
 		<tr><td>调用Generate窗口</td><td>Alt+Insert</td></tr>
+		<tr><td>Toggle Case</td><td>Ctrl+Shift+U/Ctrl+Shift+X/Ctrl+Shift+Y</td></tr>
 	</table> 
 +	How to open Maven Projects view?  
 	View->Tool Windows->Maven projects  
@@ -74,7 +77,7 @@ IDE混用之后快捷键也记得乱七八糟，故导出或者记录各种配�
 	GRANT ALL PRIVILEGES ON jiaoyan.* TO dev@'%' IDENTIFIED BY 'dev';  
 	FLUSH PRIVILEGES;
 ```  
-+	How to locate data files?
++	how to locate data files?
 ```	
 	show global variables like "%datadir%";
 ```	
