@@ -93,5 +93,6 @@ IDE混用之后快捷键也记得乱七八糟，故导出或者记录各种配�
 ```
 +	"Can't start git:git.exe" when SourceTree 2.3.1.0 works with IntelliJ IDEA?
 	*https://stackoverflow.com/questions/33860054/cant-start-git-git-exe-warning-pop-up-message-in-pycharm-5-0-2*  
+	*https://confluence.atlassian.com/sourcetreekb/using-embedded-git-or-system-git-in-sourcetree-785323587.html*  
 	File->Settings->Version Control->Git->Path to Git executable  
 	Correct path of git.exe should fix this issue. eg. C:\Users\{User}\AppData\Local\Atlassian\SourceTree\git_local\bin\git.exe
