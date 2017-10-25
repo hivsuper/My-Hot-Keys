@@ -60,6 +60,7 @@ IDE混用之后快捷键也记得乱七八糟，故导出或者记录各种配�
 		<tr><td>调出右健菜单</td><td>Ctrl+Alt+S</td></tr>
 		<tr><td>调用Generate窗口</td><td>Alt+Insert</td></tr>
 		<tr><td>Toggle Case</td><td>Ctrl+Shift+U/Ctrl+Shift+X/Ctrl+Shift+Y</td></tr>
+		<tr><td>Scroll From Source(Same as `Link with editor` for Eclipse)</td><td>Alt+F1</td></tr>
 	</table> 
 +	How to open Maven Projects view?  
 	View->Tool Windows->Maven projects  
