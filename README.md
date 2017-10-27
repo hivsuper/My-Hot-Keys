@@ -64,6 +64,9 @@ IDE混用之后快捷键也记得乱七八糟，故导出或者记录各种配�
 	</table> 
 +	How to open Maven Projects view?  
 	View->Tool Windows->Maven projects  
++	How to import Maven projects with several modules?
+	1. Import project A
+	2. File->Project Structure->Modules->+/Import Module->Select File or Directory to Import->Similar process as #1
 
 ## Windows 10
 +	Hot Keys
